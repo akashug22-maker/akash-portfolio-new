@@ -484,3 +484,15 @@ img {
     width: 450px;
   }
 }
+/*===== HOME =====*/
+.home {
+  position: relative;
+  row-gap: 5rem;
+  padding: 4rem 0 5rem;
+}
+
+.home__img-main {
+  width: 100%;
+  border-radius: 50%; /* optional: for a circular profile picture */
+}
+...
